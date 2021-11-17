@@ -1,6 +1,6 @@
 # 学会などに投稿した論文
 ## 概要
-いずれも査読の無い論文なので、学術的な価値自体は微妙ですが、掲載しておきます。
+学術的な価値自体は微妙なものが多いですが、掲載しておきます。
 
 ## 投稿論文
 [インターネット広告のロバストなCVR推定モデル](https://www.jstage.jst.go.jp/article/pjsai/JSAI2016/0/JSAI2016_2J33/_article/-char/ja/)
@@ -15,3 +15,6 @@
 放送大学Open Forum(第15号)の研究ノート(ドラフト)
 
 ガボール関数による複素特徴を用いたインターネット広告文章の適法性判別モデル:インタラクティブ情報アクセスと可視化マイニング(第26回研究会)予稿
+
+[Identifying Legality of Japanese Online Advertisements using Complex-valued Support Vector Machine with DFT-based Document Features](https://easychair.org/publications/preprint/cN3T):[Artificial Intelligence of and for Business (AI-Biz2021) 
+associated with JSAI International Symposia on AI 2021](http://sig-bi.jp/ai-biz2021.html)※査読あり
