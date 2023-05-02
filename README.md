@@ -1,6 +1,6 @@
 # 学会などに投稿した論文
 ## 概要
-学術的な価値自体は微妙なものが多いですが、掲載しておきます。
+学術的な価値自体は微妙なものもありますが、掲載しておきます。
 
 ## 投稿論文
 [インターネット広告のロバストなCVR推定モデル](https://www.jstage.jst.go.jp/article/pjsai/JSAI2016/0/JSAI2016_2J33/_article/-char/ja/)
@@ -18,3 +18,6 @@
 
 [Identifying Legality of Japanese Online Advertisements using Complex-valued Support Vector Machine with DFT-based Document Features](https://easychair.org/publications/preprint/cN3T):[Artificial Intelligence of and for Business (AI-Biz2021) 
 associated with JSAI International Symposia on AI 2021](http://sig-bi.jp/ai-biz2021.html)※査読あり
+
+[離散フーリエ変換文書特徴を用いた，複素SVMによる日本語Web広告文書の適法性判別]
+(https://www.jstage.jst.go.jp/article/tjsai/38/3/38_38-3_D-M51/_article/-char/ja)
