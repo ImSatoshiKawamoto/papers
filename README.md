@@ -17,7 +17,9 @@
 ガボール関数による複素特徴を用いたインターネット広告文章の適法性判別モデル:インタラクティブ情報アクセスと可視化マイニング(第26回研究会)予稿
 
 [Identifying Legality of Japanese Online Advertisements using Complex-valued Support Vector Machine with DFT-based Document Features](https://easychair.org/publications/preprint/cN3T):[Artificial Intelligence of and for Business (AI-Biz2021) 
-associated with JSAI International Symposia on AI 2021](http://sig-bi.jp/ai-biz2021.html)※査読あり
+associated with JSAI International Symposia on AI 2021](http://sig-bi.jp/ai-biz2021.html)（査読あり）
 
 [離散フーリエ変換文書特徴を用いた，複素SVMによる日本語Web広告文書の適法性判別](https://www.jstage.jst.go.jp/article/tjsai/38/3/38_38-3_D-M51/_article/-char/ja)
 :人工知能学会論文誌（原著論文，査読あり）
+
+[Legality Identification of Japanese Online Advertisements Using Complex-Valued Support Vector Machines with DFT-Coded Document Vectors](https://link.springer.com/chapter/10.1007/978-3-031-36190-6_23):[New Frontiers in Artificial Intelligence(Selected paper from JSAI-isAI 2021)]（査読あり）
