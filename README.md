@@ -25,3 +25,6 @@ associated with JSAI International Symposia on AI 2021](http://sig-bi.jp/ai-biz2
 [Legality Identification of Japanese Online Advertisements Using Complex-Valued Support Vector Machines with DFT-Coded Document Vectors](https://link.springer.com/chapter/10.1007/978-3-031-36190-6_23):[New Frontiers in Artificial Intelligence(Selected paper from JSAI-isAI 2021)]（査読あり）
 
 [複素サポートベクターマシンを弱識別器としたAdaBoostを用いた，進化計算による広告文書判別のための特徴探索および解釈](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=238497&item_no=1&page_id=13&block_id=8):[第261回 自然言語処理研究発表会](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E4%BC%9A/NL261?authuser=0)
+
+[広告文書の判別のためのLLMによる文書データ拡張および，文書構造のメトリックスを指標とした生成文書の妥当性評価](https://confit.atlas.jp/guide/event/jsai2025/subject/4A3-GS-10-01/tables?cryptoId=):人工知能学会全国大会（第39回, 2025）
+
