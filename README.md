@@ -28,3 +28,5 @@ associated with JSAI International Symposia on AI 2021](http://sig-bi.jp/ai-biz2
 
 [広告文書の判別のためのLLMによる文書データ拡張および，文書構造のメトリックスを指標とした生成文書の妥当性評価](https://confit.atlas.jp/guide/event/jsai2025/subject/4A3-GS-10-01/tables?cryptoId=):人工知能学会全国大会（第39回, 2025）
 
+[アルファ多様性およびベータ多様性を基準指標とした、広告文書の識別モデル作成のためのLLMによるデータ拡張](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/2L1-GS-10t-01):人工知能学会全国大会（第40回, 2026）
+
